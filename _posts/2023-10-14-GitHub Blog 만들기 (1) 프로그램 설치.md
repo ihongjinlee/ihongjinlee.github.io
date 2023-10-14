@@ -5,7 +5,7 @@ categories: [github]
 tags: [github, blog, windows11, ruby, jekyll, bundler]
 ---
 
-## 1. 개요
+## 1. 시작
 
 |:--------|:-----------------------------------------------:|
 | Ruby | 동적 스크립트 언어로서 객체지향 프로그래밍 언어 |
@@ -21,28 +21,28 @@ tags: [github, blog, windows11, ruby, jekyll, bundler]
 | 설치 버전 | Ruby+Devkit 3.2.2-1 (x86) |
 | 설치 파일 | `rubyinstaller-devkit-3.2.2-1-x86.exe` |
 
-![Ruby 설치1](/assets/posts/스크린샷 2023-10-14 080808.png){: width="972" height="589" }
+![Ruby 설치1](/assets/posts/2023-10-14/스크린샷 2023-10-14 080808.png){: width="972" height="589" }
 _https://rubyinstaller.org/downloads/_
 
-![Ruby 설치2](/assets/posts/스크린샷 2023-10-14 080941.png){: width="972" height="589" .w-75 .center }
+![Ruby 설치2](/assets/posts/2023-10-14/스크린샷 2023-10-14 080941.png){: width="972" height="589" .w-75 .center }
 _Setup - Ruby 3.2.2-1-x86_
 
-![Ruby설치3](/assets/posts/스크린샷 2023-10-14 080947.png){: width="972" height="589" .w-75 .center }
+![Ruby설치3](/assets/posts/2023-10-14/스크린샷 2023-10-14 080947.png){: width="972" height="589" .w-75 .center }
 _Setup - Ruby 3.2.2-1-x86_
 
-![Ruby설치4](/assets/posts/스크린샷 2023-10-14 081015.png){: width="972" height="589" .w-75 .center }
+![Ruby설치4](/assets/posts/2023-10-14/스크린샷 2023-10-14 081005.png){: width="972" height="589" .w-75 .center }
 _Setup - Ruby 3.2.2-1-x86_
 
-![Ruby설치5](/assets/posts/스크린샷 2023-10-14 081151.png){: width="972" height="589" .w-75 .center }
+![Ruby설치5](/assets/posts/2023-10-14/스크린샷 2023-10-14 081151.png){: width="972" height="589" .w-75 .center }
 _Setup - Ruby 3.2.2-1-x86_
 
-![Ruby설치6](/assets/posts/스크린샷 2023-10-14 081405.png){: width="972" height="589" .w-75 .center }
+![Ruby설치6](/assets/posts/2023-10-14/스크린샷 2023-10-14 081405.png){: width="972" height="589" .w-75 .center }
 _Setup - Ruby 3.2.2-1-x86_
 
-![Ruby설치7](/assets/posts/스크린샷 2023-10-14 081441.png){: width="972" height="589" }
+![Ruby설치7](/assets/posts/2023-10-14/스크린샷 2023-10-14 081441.png){: width="972" height="589" }
 _Ruby Installer2 for Windows_
 
-![Ruby설치8](/assets/posts/스크린샷 2023-10-14 081600.png){: width="972" height="589" }
+![Ruby설치8](/assets/posts/2023-10-14/스크린샷 2023-10-14 081600.png){: width="972" height="589" }
 _Ruby Installer2 for Windows_
 
 ### Ruby 버전 확인
