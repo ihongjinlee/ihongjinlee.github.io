@@ -37,7 +37,7 @@ $ bundle update
 $ bundle install
 ```
 
-### 로컬 서버로 띄우기
+### 로컬 서버 띄우기
 
 ```shell
 $ bundle exec jekyll s
@@ -53,6 +53,12 @@ $ git add .
 $ git commit -m "first commit"
 $ git push
 ```
+
+![GitHub](/assets/posts/2023-10-15/스크린샷 2023-10-14 083236.png){: width="972" height="589" }
+_GitHub Action에서 배포 단계 확인_
+
+![GitHub](/assets/posts/2023-10-15/스크린샷 2023-10-14 083311.png){: width="972" height="589" }
+_GitHub Action에서 배포 단계 확인_
 
 ![GitHub](/assets/posts/2023-10-15/스크린샷 2023-10-14 082718.png){: width="972" height="589" }
 _https://{나의 깃허브계정}.github.io 확인_
