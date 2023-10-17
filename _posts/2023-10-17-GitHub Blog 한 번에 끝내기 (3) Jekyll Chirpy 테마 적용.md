@@ -7,7 +7,7 @@ tags: [github, blog, windows11, jekyll, chirpy, theme]
 
 ## 1. Chirpy 테마 다운로드
 
-- <http://jekyllthemes.org/themes/jekyll-theme-chirpy/>
+- [http://jekyllthemes.org/themes/jekyll-theme-chirpy/](http://jekyllthemes.org/themes/jekyll-theme-chirpy/)
 - Download 버튼 클릭
 
 ![Chirpy 테마](/assets/posts/2023-10-17/스크린샷 2023-10-14 083512.png){: width="972" height="589" }
