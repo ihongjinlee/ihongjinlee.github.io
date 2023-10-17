@@ -1,5 +1,5 @@
 ---
-title: GitHub Blog 만들기 (2) jekyll 블로그 생성, 배포
+title: GitHub Blog 한 번에 끝내기 (2) jekyll 블로그 생성, 배포
 date: 2023-10-15 12:30:00 +09:00
 categories: [github]
 tags: [github, blog, windows11, jekyll, bundler]

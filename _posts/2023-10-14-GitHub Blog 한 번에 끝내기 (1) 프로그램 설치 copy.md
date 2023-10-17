@@ -1,5 +1,5 @@
 ---
-title: GitHub Blog 만들기 (1) 프로그램 설치
+title: GitHub Blog 한 번에 끝내기 (1) 프로그램 설치
 date: 2023-10-14 09:00:00 +09:00
 categories: [github]
 tags: [github, blog, windows11, ruby, jekyll, bundler]
